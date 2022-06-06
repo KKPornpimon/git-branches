@@ -1,0 +1,8 @@
+# ทีละ file
+config/setting.js
+# ทั้ง folder
+config/
+# เฉพาะ file ที่เลือก
+config/*.js
+
+search gitignore.io ใน google 
